@@ -12,4 +12,8 @@ print(casing.title())
 print(casing.upper())
 print(casing.lower())
 
+first_name = 'first'
+last_name = 'last'
+full_name = f'{first_name} {last_name}'
+print(f'Hello {full_name.title()}')
 # Continue on Page 20
