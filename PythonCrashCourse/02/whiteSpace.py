@@ -13,5 +13,3 @@ print(extra_spaces.strip())
 
 full_url = 'https://nostarch.com'
 print(full_url.removeprefix('https://'))
-
-# continue at page 24
