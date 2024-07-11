@@ -14,3 +14,4 @@
 
 - [learnpython.org](https://www.learnpython.org/)
 - [W3 Schools - Python](https://www.w3schools.com/python/)
+- [Codecademy Python for programmers](https://www.codecademy.com/learn/python-for-programmers)
