@@ -10,6 +10,8 @@
 
 - [Python Institute - Python Testing Essentials](https://pythoninstitute.org/python-for-testing-essentials)
 
+- [A simple introduction to Test Driven Development with Python](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/)
+
 ### General Python
 
 - [learnpython.org](https://www.learnpython.org/)
