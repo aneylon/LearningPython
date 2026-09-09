@@ -21,6 +21,13 @@ class Car :
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
 
+class ElectricCar(Car):
+    def __init__(self, make, model, year):
+        super().__init__(make, model, year)
+
+my_leaf = ElectricCar('nissan', 'leaf', 2024)
+print(my_leaf.get_descriptive_name())
+
 my_new_car = Car("audi", "a4", 2024)
 print(my_new_car.get_descriptive_name())
 my_new_car.read_odometer()
