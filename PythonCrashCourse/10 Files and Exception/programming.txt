@@ -1,1 +1,3 @@
-I Love Python!
+I love Python!
+I love creating new games. 
+I also love working with data. 
