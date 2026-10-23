@@ -1,0 +1,9 @@
+print('Arithmetic Operators')
+
+print('Addition', 3 + 4)
+print('Subtraction', 3 - 4 )
+print('Multiplication', 3 * 4)
+print('Division', 3 / 4)
+print('Modulus', 3 % 4)
+print('Exponentiation', 3 ** 3)
+print('Floor Division', 3 // 4)
