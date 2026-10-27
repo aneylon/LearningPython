@@ -1,0 +1,10 @@
+
+print("AND")
+print("True and True", True and True)
+print("True and False", True and False)
+print("OR")
+print("True or False", True or False)
+print("True or True", True or True)
+print("NOT")
+print("not True", not True)
+print("not False", not False)
